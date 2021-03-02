@@ -7,7 +7,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "first.last@example.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: Test package for DSCI 524 Individula Assignment 2
+Description: Test package for DSCI 524 Individual Assignment 2.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
